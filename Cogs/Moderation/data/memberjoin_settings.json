@@ -1,0 +1,16 @@
+{
+  "1400728225038078002": {
+    "welcome_enabled": true,
+    "goodbye_enabled": true,
+    "auto_role": 1401083342899904604,
+    "auto_nickname": false,
+    "welcome_message": "Haii sayang {member} selamat bergabung di server {guild} ini",
+    "goodbye_message": "Selamat tinggal {member}! Kami akan merindukanmu!",
+    "welcome_channel": 1400728225038078005,
+    "goodbye_channel": null,
+    "welcome_dm_enabled": true,
+    "welcome_channel_enabled": true,
+    "welcome_gif": "https://cdn.discordapp.com/attachments/1400728225038078005/1402272499198197780/giphy_8.gif?ex=6893f848&is=6892a6c8&hm=ec474fd20a437d573161116f30c903b11440b0d39ef28f6fd8320d727d17235f&",
+    "welcome_embed_color": "#800080"
+  }
+}
